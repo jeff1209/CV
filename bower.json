@@ -1,0 +1,25 @@
+{
+  "name": "Jeff Tian's CV",
+  "version": "1.0.0",
+  "authors": [
+    "Jeff Tian"
+  ],
+  "description": "Full Stack Software Developer",
+  "keywords": [
+    "CV",
+    "Software Developer",
+    "Full Stack",
+  ],
+  "license": "CC BY 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagepiling.js": "~0.0.7"
+  }
+}
+
