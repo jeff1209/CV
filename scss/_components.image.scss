@@ -1,12 +1,12 @@
 $avatar-r: 200px;
 
 #avatar {
-    background-image: url('img/avatar.jpg');
+    //background-image: url('img/avatar.jpg');
     width: $avatar-r;
     height: $avatar-r;
     border: 10px solid $clr-light;
-    background-size: cover;
-    background-position: center;
+    //background-size: cover;
+    //background-position: center;
 
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
