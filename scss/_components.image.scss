@@ -1,9 +1,12 @@
 $avatar-r: 200px;
 
 #avatar {
+    background-image: url('img/avatar.jpg');
     width: $avatar-r;
     height: $avatar-r;
     border: 10px solid $clr-light;
+    background-size: cover;
+    background-position: center;
 
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
@@ -18,7 +21,7 @@ $avatar-r: 200px;
     border-radius: 50%;
     background-color: $clr-dark;
     padding: 18px;
-    
+
     &:hover {
         opacity: 0.8;
     }
